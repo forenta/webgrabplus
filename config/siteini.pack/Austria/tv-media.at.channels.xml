@@ -5,6 +5,7 @@
     <channel update="i" site="tv-media.at" site_id="ORF2" xmltv_id="ORF zwei">ORF zwei</channel>
     <channel update="i" site="tv-media.at" site_id="ATV" xmltv_id="ATV">ATV</channel>
     <channel update="i" site="tv-media.at" site_id="PULS4" xmltv_id="PULS 4">PULS 4</channel>
+    <channel update="i" site="tv-media.at" site_id="PULS24" xmltv_id="PULS 24">PULS 24</channel>
     <channel update="i" site="tv-media.at" site_id="SERVUSTV" xmltv_id="SERVUS TV">SERVUS TV</channel>
     <channel update="i" site="tv-media.at" site_id="ORF3" xmltv_id="ORF III">ORF III</channel>
     <channel update="i" site="tv-media.at" site_id="ATV2" xmltv_id="ATV 2">ATV 2</channel>
